@@ -7,3 +7,6 @@ body {
 .Lineas {
     border-color: black;
 }
+.FLoat {
+    float: right;
+}
